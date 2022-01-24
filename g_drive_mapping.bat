@@ -1,0 +1,1 @@
+net use g: \\192.168.10.1\DropAndPick
